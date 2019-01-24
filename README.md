@@ -1,7 +1,5 @@
 ### [Vida](http://yakusokunoneverland.wikia.com/wiki/Vida)
 
-![Vida](./vida.jpg)
-
 > A Vida is a vampiric plant used to extend the shelf life of a meat which functions by absorbing the blood. This also doubles as a main subject of ritual for demon descents as their way of dedicating the meal to their god.
 
 This project goal is to classify a flower dataset ([102 Category Flower Dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)) compound by one hundred and twelve species of flower, each class consists of between 40 and 258 images, using two different techniques based on convolution. To achieve a good accuracy the architectures Res Net and Conv Net are considered for the classification.
@@ -48,13 +46,7 @@ The available code is writen in a Jupyter Lab notebook, to start the notebook se
 jupyter lab
 ```
 
-Open the browser at [localhost:8888/lab](http://localhost:8888/lab) and execute the cells `ctrl` + `enter`.
-
-#### Credits
-
-[Github.com/Sphinxs](https://github.com/Sphinxs)
-
-[Linkedin.com/in/walter-hr](https://www.linkedin.com/in/walter-hr/)
+Open [localhost:8888/lab](http://localhost:8888/lab) at the browser and execute the cells `ctrl` + `enter`.
 
 #### References
 
@@ -75,3 +67,9 @@ Below are the references of study to create this project:
 [Deep Learning cheatsheets for Stanford's CS 230](https://github.com/afshinea/stanford-cs-230-deep-learning)
 
 [PyTorch cheatsheet](https://github.com/Tgaaly/pytorch-cheatsheet)
+
+#### Credits
+
+[Github.com/Sphinxs](https://github.com/Sphinxs)
+
+[Linkedin.com/in/walter-hr](https://www.linkedin.com/in/walter-hr/)
