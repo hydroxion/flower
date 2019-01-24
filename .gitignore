@@ -1,0 +1,8 @@
+# Cache
+*.ipynb_checkpoints
+*.pyc
+__pycache__
+
+# Editor
+*.vscode
+*.vs
