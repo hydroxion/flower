@@ -2,5 +2,3 @@ pytorch
 torchvision
 jupyterlab
 matplotlib
-# imgaug
-# albumentations
