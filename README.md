@@ -36,6 +36,12 @@ See installed modules:
 conda list
 ```
 
+Update conda:
+
+```shell
+conda update -n base -c defaults conda
+```
+
 #### Run
 
 Start the notebook server:
