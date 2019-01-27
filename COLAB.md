@@ -31,9 +31,11 @@ Download the dataset:
 
 !wget -cq https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip
 
-!rm -r flower_data || true
+!rm -f flower_data || true
 
 !unzip -qq flower_data.zip
+
+!rm -f flower_data.zip || true
 ```
 
 Read [github.com/pytorch/pytorch/issues/958#issuecomment-309752126](github.com/pytorch/pytorch/issues/958#issuecomment-309752126) to calculate the computational power required by the model.
