@@ -66,6 +66,8 @@ Open [localhost:8888/lab](http://localhost:8888/lab) at the browser.
 
 [Deep Learning cheatsheets for Stanford's CS 230](https://github.com/afshinea/stanford-cs-230-deep-learning)
 
+[Computer Vision Foundation](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos)
+
 #### Credits
 
 [Github.com/Sphinxs](https://github.com/Sphinxs)
