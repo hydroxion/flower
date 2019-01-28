@@ -24,7 +24,7 @@ import torch
 !pip install --no-cache-dir -I pillow
 ```
 
-Download the dataset:
+Download the dataset and chaneg the path on the notebook:
 
 ```shell
 !wget -cq https://github.com/udacity/pytorch_challenge/raw/master/cat_to_name.json
