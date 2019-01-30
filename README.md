@@ -1,10 +1,10 @@
-### Vida
+### [Vida](https://yakusokunoneverland.fandom.com/wiki/Vida)
 
-The goal of this project is to classify the [102 category flower dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/), compound by one hundred and twelve species of flowers. Using different techniques based on convolution the classification is made.
+> [Flower](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/) classification using Convolutional Neural Networks and Autoencoders through [PyTorch](https://pytorch.org/)
 
 #### Dependencies
 
-Create a virtual environment using Pyenv Virtualenv, see how to install [Pyenv](https://github.com/pyenv/pyenv) and [Pyenv Virtualenv](https://github.com/pyenv/pyenv-virtualenv).
+Install [Pyenv](https://github.com/pyenv/pyenv) and [Pyenv Virtualenv](https://github.com/pyenv/pyenv-virtualenv).
 
 Install Anaconda image:
 
@@ -24,13 +24,13 @@ Activate the virtual environment:
 pyenv activate vida
 ```
 
-Install dependencies:
+Install the dependencies:
 
 ```shell
 conda install --yes --file requirements.txt
 ```
 
-See installed modules:
+See modules:
 
 ```shell
 conda list
@@ -44,19 +44,17 @@ conda update -n base -c defaults conda
 
 #### Run
 
-Start the notebook server:
+Start Jupyter Lab:
 
 ```shell
 jupyter lab
 ```
 
-Open [localhost:8888/lab](http://localhost:8888/lab) at the browser.
-
 #### References
 
 [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
-[MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+[Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 [MIT Deep Learn](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 
@@ -64,7 +62,7 @@ Open [localhost:8888/lab](http://localhost:8888/lab) at the browser.
 
 [PyTorch documentation](https://pytorch.org/docs/stable/index.html)
 
-[Deep Learning cheatsheets for Stanford's CS 230](https://github.com/afshinea/stanford-cs-230-deep-learning)
+[Deep Learning cheatsheets](https://github.com/afshinea/stanford-cs-230-deep-learning)
 
 [Computer Vision Foundation](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos)
 
