@@ -1,11 +1,7 @@
 # Cache
 *.ipynb_checkpoints
 *.pyc
-__pycache__
+*__pycache__
 
 # Editor
 *.vscode
-*.vs
-
-# Binaries
-vgg11.pth

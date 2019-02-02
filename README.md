@@ -1,10 +1,12 @@
-### [Vida](https://yakusokunoneverland.fandom.com/wiki/Vida)
+### Vida
 
-> [Flower](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/) classification using Convolutional Neural Networks and Autoencoders through [PyTorch](https://pytorch.org/)
+> Flower classification using Convolutional Neural Networks and Autoencoders through PyTorch
+
+[Colab notebook](https://drive.google.com/file/d/1zRGpOIh03G_d82MnEYGQ1MrUd6v4x--f/view?usp=sharing).
 
 #### Dependencies
 
-Install [Pyenv](https://github.com/pyenv/pyenv) and [Pyenv Virtualenv](https://github.com/pyenv/pyenv-virtualenv).
+Install the [Pyenv](https://github.com/pyenv/pyenv) and [Pyenv Virtualenv](https://github.com/pyenv/pyenv-virtualenv).
 
 Install Anaconda image:
 
@@ -30,7 +32,7 @@ Install the dependencies:
 conda install --yes --file requirements.txt
 ```
 
-See modules:
+List installed modules:
 
 ```shell
 conda list
@@ -50,22 +52,8 @@ Start Jupyter Lab:
 jupyter lab
 ```
 
-#### References
-
-[Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
-
-[Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
-
-[MIT Deep Learn](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
-
-[Deep Learn book](http://www.deeplearningbook.org/)
-
-[PyTorch documentation](https://pytorch.org/docs/stable/index.html)
-
-[Deep Learning cheatsheets](https://github.com/afshinea/stanford-cs-230-deep-learning)
-
-[Computer Vision Foundation](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos)
-
 #### Credits
 
 [Github.com/Sphinxs](https://github.com/Sphinxs)
+
+[Robots.ox.ac.uk/~vgg/data/flowers/102](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
