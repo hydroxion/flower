@@ -2,7 +2,7 @@
 
 > Flower classification using Convolutional Neural Networks and Autoencoders through PyTorch
 
-[Colab notebook](https://drive.google.com/file/d/1zRGpOIh03G_d82MnEYGQ1MrUd6v4x--f/view?usp=sharing).
+The result of this project was 97% accuracy using Resnet 18 and 92% using VGG 11, to see the result open the folders `resnet18` and `vgg11`.
 
 #### Dependencies
 
