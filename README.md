@@ -1,6 +1,6 @@
 ### Vida
 
-> Flower classification using Convolutional Neural Networks and Autoencoders through PyTorch
+> Flower classification using Convolutional Neural Networks through PyTorch
 
 The result of this project was 97% accuracy using Resnet 18 and 92% using VGG 11, to see the result open the folders `resnet18` and `vgg11`.
 
